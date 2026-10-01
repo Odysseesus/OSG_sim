@@ -1,4 +1,4 @@
-"""engine.py - Lõi mô phỏng thay trang (chủ sở hữu: Huỳnh Tiến Sơn).
+"""engine.py - Lõi mô phỏng thay trang (chịu trách nhiệm: Huỳnh Tiến Sơn).
 
 Engine nhận một chuỗi tham chiếu (reference string) và số frame k, rồi đếm số page fault
 của một trong ba thuật toán: FIFO, LRU, OPT.
