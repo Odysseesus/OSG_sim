@@ -16,7 +16,7 @@
   Locality-Phases, Skewed-80/20 (ngẫu nhiên, 30 seed)
 - Belady-string: chuỗi 12 tham chiếu, chạy riêng với k = 1..6
 
-## Cột trong CSV
+## Cột trong CSV (results/)
 - raw.csv (2208 dòng, mỗi dòng 1 lần chạy): pattern, algo, k, seed, n, faults,
   hits, fault_rate, hit_ratio, compulsory
   - fault_rate = faults / n (phân số 0–1, KHÔNG phải %); hit_ratio = 1 − fault_rate
