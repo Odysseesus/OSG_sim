@@ -1,0 +1,6 @@
+Pattern,FIFO,LRU,OPT
+Sequential-20,1.35,1.35,1.00
+Loop-8,3.45,3.45,1.00
+Uniform-Random,1.64,1.63,1.00
+Locality-Phases,2.10,1.49,1.00
+Skewed-80/20,2.15,1.61,1.00
