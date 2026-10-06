@@ -2,8 +2,6 @@
 
 ## Lệnh
     python -m unittest discover -v               # test patterns
-    python run_experiments.py --fake --quick     # thử khung (engine giả, số vô nghĩa)
-    python run_experiments.py --ref              # thử với bản tham chiếu (chỉ kiểm pipeline)
     python run_experiments.py                    # CHẠY THẬT với engine.py của Sơn (CP2, CP3)
     python make_charts.py                        # F1–F8 + T1–T3
     python make_charts.py --slide                # F2, F4, F6, F7 bản slide-ready -> figures/slide/
